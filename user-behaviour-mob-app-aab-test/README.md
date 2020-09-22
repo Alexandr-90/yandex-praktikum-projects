@@ -24,12 +24,12 @@
 
 ## Используемые библиотеки
 
-*pandas
-matplotlib
-numpy
-seaborn
-plotly
-scipy
+*pandas  
+matplotlib  
+numpy  
+seaborn  
+plotly  
+scipy  
 math*
 
 ## Итог
