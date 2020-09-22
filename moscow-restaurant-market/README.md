@@ -1,6 +1,6 @@
 #  Исследования рынка общепита в Москве для принятия решения об открытии нового заведения
 
-Проект можно посмотреть [здесь](https://nbviewer.jupyter.org/github/Alexandr-90/yandex-praktikum-projects/blob/master/moscow-restaurant-market/moscow-restaurant-market.ipynb)
+Проект можно посмотреть [здесь](https://nbviewer.jupyter.org/github/Alexandr-90/yandex-praktikum-projects/blob/master/moscow-restaurant-market/moscow-restaurant-market.ipynb).
 
 ## Данные
 
@@ -31,12 +31,12 @@
 
 ## Используемые библиотеки
 
-*pandas
-matplotlib
-numpy
-seaborn
-requests
-re
+*pandas  
+matplotlib  
+numpy  
+seaborn  
+requests  
+re  
 io*
 
 ## Итог
