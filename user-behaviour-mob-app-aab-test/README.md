@@ -1,6 +1,6 @@
 #  Анализ пользовательского поведения в мобильном приложении
 
-Проект можно посмотреть [здесь](https://nbviewer.jupyter.org/github/Alexandr-90/yandex-praktikum-projects/blob/master/user-behaviour-mob-app-aab-test/user-behaviour-mob-app-aab-test.ipynb)
+Проект можно посмотреть [здесь](https://nbviewer.jupyter.org/github/Alexandr-90/yandex-praktikum-projects/blob/master/user-behaviour-mob-app-aab-test/user-behaviour-mob-app-aab-test.ipynb).
 
 ## Данные
 
