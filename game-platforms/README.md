@@ -1,6 +1,6 @@
 #  Изучение закономерностей, определяющих успешность игр
 
-Проект можно посмотреть [здесь](https://nbviewer.jupyter.org/github/Alexandr-90/yandex-praktikum-projects/blob/master/game-platforms/game_platforms.ipynb)
+Проект можно посмотреть [здесь](https://nbviewer.jupyter.org/github/Alexandr-90/yandex-praktikum-projects/blob/master/game-platforms/game_platforms.ipynb).  
 
 ## Данные
 
@@ -9,7 +9,7 @@
 
 ## Цель
 
-Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры 
+Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры.  
 
 ## Задача
 
@@ -22,12 +22,12 @@
 
 ## Используемые библиотеки
 
-*pandas
-matplotlib
-numpy
-math
-scipy
-seaborn
+*pandas  
+matplotlib  
+numpy  
+math  
+scipy  
+seaborn  
 plotly*
 
 ## Итог
