@@ -1,6 +1,6 @@
 #  Прогнозирование вероятности оттока пользователей для фитнес-центров
 
-Проект можно посмотреть [здесь](https://nbviewer.jupyter.org/github/Alexandr-90/yandex-praktikum-projects/blob/master/gym-churn-prediction/gym-churn-prediction.ipynb)
+Проект можно посмотреть [здесь](https://nbviewer.jupyter.org/github/Alexandr-90/yandex-praktikum-projects/blob/master/gym-churn-prediction/gym-churn-prediction.ipynb).
 
 ## Данные
 
@@ -40,16 +40,15 @@
 
 ## Используемые библиотеки
 
-*pandas
-matplotlib
-numpy
-seaborn
-plotly
-sklearn
+*pandas  
+matplotlib  
+numpy  
+seaborn  
+plotly  
+sklearn  
 scipy*
 
 ## Итог
-
 
 В данном проекте использовано машинное обучение.  
 Спрогнозирована вероятность оттока (на уровне следующего месяца) для каждого клиента;  
