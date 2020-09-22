@@ -23,9 +23,9 @@
 
 ## Используемые библиотеки
 
-*pandas
-matplotlib
-numpy
+*pandas  
+matplotlib  
+numpy  
 seaborn*
 
 ## Итог
