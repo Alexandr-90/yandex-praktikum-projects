@@ -1,6 +1,6 @@
 #  Оптимизация маркетинговых затрат в Яндекс.Афише
 
-Проект можно посмотреть [здесь](https://nbviewer.jupyter.org/github/Alexandr-90/yandex-praktikum-projects/blob/master/marketing-costs-yandex-afisha/marketing-costs-yandex-afisha.ipynb)
+Проект можно посмотреть [здесь](https://nbviewer.jupyter.org/github/Alexandr-90/yandex-praktikum-projects/blob/master/marketing-costs-yandex-afisha/marketing-costs-yandex-afisha.ipynb).
 
 ## Данные
 
